@@ -26,7 +26,3 @@ A customer segmentation project built around transactional sales data. It prepar
 ## Open the report
 
 Open `Customer Segmentation using RFM Analysis.pbix` in Power BI Desktop. The Excel workbooks are included as the data and analysis files used alongside the report.
-
-## Public data note
-
-This repository is public. The included workbook and report may contain customer-level or transactional records. Confirm that you have permission to publish all included data, and use anonymized or approved sample data rather than real customer information.
